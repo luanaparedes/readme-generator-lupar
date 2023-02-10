@@ -13,9 +13,11 @@ The ReadMe Generator App gathers information through a series of questions throu
 To run the app type 'node index' into the console!
 
 ## Usage
-The following image shows the questions asked to gather information about the project to then generate the ReadMe.md
+The following image shows the questions asked to gather information about the project to then generate the ReadMe.md along with a video walkthrough!
 
 ![App Image](/assets/images/Screenshot-readmegen.png)
+
+![Demo](/assets/images/ReadMe-Gen-Vid.webm)
 
 
 ## Credits
